@@ -1,7 +1,5 @@
 # Sistem Informasi Perpustakaan
 Sistem berbasis web untuk meminjam buku secara online
-# Sistem Informasi Perpustakaan
-Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk melakukan peminjaman buku dengan berbasis website
 ## Instalasi
 1. Silakan [klik](#) untuk memulai mendownload berkas.
 2. Silakan ekstrak file .rar yang telah anda download.
